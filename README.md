@@ -1,0 +1,1 @@
+Explore my GitHub profile to see my hands-on experience with Java, Spring Boot, and web development projects. I’ve built applications like a Book Ordering System using the MERN stack and a Mass Mail Dispatcher using HTML, CSS, and JavaScript. My repositories reflect my passion for backend development, clean code, and practical learning.
